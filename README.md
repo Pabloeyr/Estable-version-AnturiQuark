@@ -22,7 +22,7 @@
 
 ## About
 
-The **Anturi Quark** is a portable device for detecting minerals in water, in minutes and without a lab. This app is its control panel: it finds the Quark over Bluetooth, sends the measurement parameters, shows the results and exports them to Excel.
+The **Anturi Quark** is a portable potentiostat for electrochemical measurements with screen-printed electrodes. This app is its control panel: it finds the Quark over Bluetooth, sends the measurement parameters, shows the results and exports them to Excel.
 
 ## Download
 
