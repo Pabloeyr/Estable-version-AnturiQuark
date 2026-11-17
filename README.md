@@ -29,7 +29,7 @@ The **Anturi Quark** is a portable device for detecting minerals in water, in mi
 | File | Contents |
 |---|---|
 | [**AnturiQuark app.zip**](AnturiQuark%20app.zip) | The app (`app-arm64-v8a-release.apk`), version 1.1.0 |
-| [**User guide (PDF, Spanish)**](Guia_de_uso_Anturi_Quark_131126.pdf) | How to use the app and the Quark, the meaning of the Quark's light and troubleshooting |
+| [**User guide (PDF, Spanish)**](Guia_de_uso_Anturi_Quark_171126.pdf) | How to use the app and the Quark, the meaning of the Quark's light and troubleshooting |
 
 ## Installation
 
