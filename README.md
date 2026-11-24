@@ -48,11 +48,25 @@ Do these steps once, in this order. They take about 15 minutes.
 
 ### 1. Install the new app on the phone
 
-1. **Uninstall the 1.1.0 app first.** Android treats 1.2.0 as a different app. Your Excel files in `Download/MiApp` are kept, but you will need to calibrate the Quark again and recreate your setups.
-2. Download **AnturiQuark app.zip** on your phone (or on a computer and copy it to the phone) and extract it.
-3. Open `Anturi_Quark_App_1.2.0.apk`. If Android asks, allow **Install unknown apps** for the app you opened it with (Files, Chrome, WhatsApp…).
-4. If Google Play Protect shows a warning, tap **Install anyway**. The app is not distributed through Google Play yet.
-5. Open **Anturi Quark App** and accept the Bluetooth permissions.
+1. **Uninstall the 1.1.0 app first.** On the phone, touch and hold the **Anturi Quark App** icon › **Uninstall**. Android treats 1.2.0 as a different app, so if you skip this you end up with two icons with the same name. Your Excel files in `Download/MiApp` are kept, but you will need to calibrate the Quark again and recreate your setups.
+
+The quickest way to get the app onto the phone is to download it on a computer and send it to yourself on WhatsApp (other ways are listed below).
+
+**On the computer**
+
+2. Open this page and, in the **Download** table at the top, click **AnturiQuark app.zip**. The browser saves it in your **Downloads** folder. If GitHub opens a page for the file instead, click **Download raw file** (the arrow icon at the top right).
+3. Open **Downloads**, right-click **AnturiQuark app.zip** › **Extract All…** › **Extract**. A folder called **AnturiQuark app** opens. Inside is the app, `Anturi_Quark_App_1.2.0.apk` (Windows may show it as *Anturi_Quark_App_1.2.0*, type *APK File*).
+4. Open WhatsApp on the computer (the WhatsApp app or [web.whatsapp.com](https://web.whatsapp.com)) and open the chat with yourself: search for your own name or number, it shows as **(You)**.
+5. Click **+** (or the paperclip) › **Document**, choose `Anturi_Quark_App_1.2.0.apk` in the **AnturiQuark app** folder and send it. Send it as **Document**, not as photo or video.
+
+**On the phone**
+
+6. Open WhatsApp, go to the chat with yourself and tap the file to download it (about 24 MB). When it finishes, tap it again to open it.
+7. Android asks for permission to install apps from WhatsApp: tap **Settings**, turn on **Allow from this source**, go back and tap **Install**.
+8. If Google Play Protect shows a warning, tap **More details** › **Install anyway**. The app is not distributed through Google Play yet.
+9. Tap **Open** (or open **Anturi Quark App** from the app list) and accept the Bluetooth permissions.
+
+Other ways to get the APK onto the phone: open this page in the phone's browser, download **AnturiQuark app.zip** and extract it with the **Files** app; or copy `Anturi_Quark_App_1.2.0.apk` from the computer to the phone's **Download** folder with a USB cable. Then continue from step 7, allowing installs for the app you opened it with (Files, Chrome…).
 
 ### 2. Update the Quark's firmware over USB-C (Windows 11)
 
