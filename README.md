@@ -48,6 +48,11 @@ Do these steps once, in this order. They take about 15 minutes.
 
 ### 1. Install the new app on the phone
 
+**Check the phone first.** The app needs an **Android** phone (it does not work on iPhone) with:
+
+- **Android 7.0 or later.** To check it, open **Settings › About phone** (on Samsung: **Settings › About phone › Software information**) and look at **Android version**: it must be 7, 8, 9, 10 or higher.
+- A **64-bit** processor and **Bluetooth Low Energy**. Practically every Android phone sold since 2017 has both. If Android says **App not installed** when you install it, the phone is probably 32-bit and cannot run the app.
+
 1. **Uninstall the 1.1.0 app first.** On the phone, touch and hold the **Anturi Quark App** icon › **Uninstall**. Android treats 1.2.0 as a different app, so if you skip this you end up with two icons with the same name. Your Excel files in `Download/MiApp` are kept, but you will need to calibrate the Quark again and recreate your setups.
 
 The quickest way to get the app onto the phone is to download it on a computer and send it to yourself on WhatsApp (other ways are listed below).
@@ -101,7 +106,7 @@ From now on, new firmware comes inside the app: **Settings › Firmware update**
 
 ## Requirements
 
-- Android 7.0 or later, with Bluetooth Low Energy, on a 64-bit phone (practically every phone from 2017 onwards).
+- An Android phone (not iPhone) with **Android 7.0 or later** (API 24), a 64-bit (arm64) processor and Bluetooth Low Energy. Practically every Android phone sold since 2017 qualifies.
 - An Anturi Quark device.
 - For the one-time USB-C update: a Windows 10/11 or 64-bit Linux computer and a USB-C data cable.
 
