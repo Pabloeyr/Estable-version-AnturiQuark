@@ -70,6 +70,12 @@ Other ways to get the APK onto the phone: open this page in the phone's browser,
 You need a Windows 10 or 11 computer, a USB-C cable that carries data, and the Quark with at least 30 % battery.
 
 1. Download **Quark_Actualizacion_USB_3.21.2.zip** on the computer.
+   - **If the download fails or the ZIP disappears from Downloads,** Windows Defender removed it by mistake (it may say *Virus detected* or name a threat like `Trojan:Script/Ulthar.A!ml`). It is a false alarm from Defender's automatic detection; the package is safe. To get it back:
+     1. Open the **Start** menu, type **Windows Security** (*Seguridad de Windows*) and open it.
+     2. Go to **Virus & threat protection** (*Protección contra virus y amenazas*) › **Protection history** (*Historial de protección*).
+     3. Click the most recent entry that mentions **Quark_Actualizacion_USB_3.21.2.zip**. If Windows asks for permission, click **Yes**.
+     4. Open **Actions** (*Acciones*) and choose **Allow on device** (*Permitir en el dispositivo*). If it only offers **Restore** (*Restaurar*), choose that.
+     5. Download the ZIP again from this page (if **Restore** already put it back in **Downloads**, skip this). It should now stay in **Downloads**.
 2. Right-click the ZIP › **Properties**. If **Unblock** appears at the bottom, tick it and press **OK**. Then right-click the ZIP › **Extract All…** › **Extract**.
 3. Close the app on the phone. Turn on the Quark with its button (slow blue blink).
 4. Connect the USB-C cable from the Quark straight to a USB port of the computer. Windows recognizes it by itself; no drivers are needed.
