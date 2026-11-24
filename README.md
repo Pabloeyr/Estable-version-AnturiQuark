@@ -68,6 +68,7 @@ The quickest way to get the app onto the phone is to download it on a computer a
 
 6. Open WhatsApp, go to the chat with yourself and tap the file to download it (about 24 MB). When it finishes, tap it again to open it.
 7. Android asks for permission to install apps from WhatsApp: tap **Settings**, turn on **Allow from this source**, go back and tap **Install**.
+   - **Samsung phones:** instead you may see **Unknown apps blocked** (*Aplicaciones desconocidas bloqueadas*). That is Samsung's **Auto Blocker**. Tap **OK**, open **Settings › Security and privacy › Auto Blocker** and turn it off (it may ask for your PIN), then tap the file in WhatsApp again. Once the app is installed you can turn Auto Blocker back on; the app keeps working.
 8. If Google Play Protect shows a warning, tap **More details** › **Install anyway**. The app is not distributed through Google Play yet.
 9. Tap **Open** (or open **Anturi Quark App** from the app list) and accept the Bluetooth permissions.
 
