@@ -33,15 +33,6 @@ The **Anturi Quark** is a portable potentiostat for electrochemical measurements
 | [**Quark_Actualizacion_USB_3.21.2.zip**](Quark_Actualizacion_USB_3.21.2.zip) | One-time USB-C firmware update for Quarks that came with app 1.1.0 (Windows 10/11 and 64-bit Linux) |
 | [**User guide (PDF, Spanish)**](Guia_de_uso_Anturi_Quark_231126.pdf) | How to use the app and the Quark, the Quark's light, firmware updates and troubleshooting |
 
-## What's new in 1.2.0
-
-- **Stop** button to end a measurement and keep the data recorded so far.
-- Shorter parameter names (E start, E step, t pulse…), a separate **Experiment name** field and a single confirmation before running.
-- Each Quark is identified by a **6-character ID**. The app no longer shows the Quark's MAC address.
-- Excel files with units, every DC sample and its time in seconds. Each technique keeps its own last result. SWV adds the **ΔI vs E base** curve.
-- **Send report** for support, **Share** for calibration results, and **firmware updates from the app** over Bluetooth.
-- The Quark turns itself off after 10 minutes without measurements, never during a measurement or an update.
-
 ## Updating from app 1.1.0
 
 Do these steps once, in this order. They take about 15 minutes.
