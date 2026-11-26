@@ -31,7 +31,7 @@ The **Anturi Quark** is a portable potentiostat for electrochemical measurements
 |---|---|
 | [**AnturiQuark app.zip**](AnturiQuark%20app.zip) | The app (`Anturi_Quark_App_1.2.0.apk`), version 1.2.0, with firmware 3.21.6 inside |
 | [**Quark_Actualizacion_USB_3.21.6.zip**](Quark_Actualizacion_USB_3.21.6.zip) | One-time USB-C firmware update for Quarks that came with app 1.1.0 (Windows 10/11 and 64-bit Linux) |
-| [**User guide (PDF, Spanish)**](Guia_de_uso_Anturi_Quark_251126.pdf) | How to use the app and the Quark, the Quark's light, firmware updates and troubleshooting |
+| [**User guide (PDF, Spanish)**](Guia_de_uso_Anturi_Quark_261126.pdf) | How to use the app and the Quark, the Quark's light, firmware updates and troubleshooting |
 
 ## Updating from app 1.1.0
 
