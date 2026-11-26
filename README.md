@@ -101,7 +101,7 @@ From now on, new firmware comes inside the app: **Settings › Update** (*Ajuste
 - **Test mode:** measures the internal precision resistor instead of the electrode, to check the device.
 - **Device status:** battery and temperature (tap to refresh), low-battery warning, remote power off and automatic power off. The app warns when the Quark turns off or goes out of range.
 - **Temperature protection:** above 55 °C the Quark does not start measurements; above 60 °C it turns off.
-- **Language and themes:** English or Spanish, and four color themes (Settings › Language, Settings › Theme).
+- **Language and themes:** English or Spanish, and three color themes (Settings › Language, Settings › Theme).
 - **Support:** Send report builds a text with app and firmware versions, Quark status, calibration and the last measurements. It does not include your location or the Quark's MAC address.
 
 ## Requirements
